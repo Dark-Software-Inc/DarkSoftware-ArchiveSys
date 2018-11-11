@@ -1,0 +1,10 @@
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\bin\Debug\dwimarcx64.dll
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\bin\Debug\dwimarcx64.pdb
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\bin\Debug\DarkSoft.OS.SecurityModel.dll
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\bin\Debug\DarkSoft.OS.SecurityModel.pdb
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\obj\Debug\dwimarcx64.csproj.CoreCompileInputs.cache
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\obj\Debug\dwimarcx64.csproj.CopyComplete
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\obj\Debug\dwimarcx64.dll
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\obj\Debug\dwimarcx64.pdb
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\bin\Debug\DotNetZip.dll
+C:\Users\PIANICA\source\repos\dwimarcx64\dwimarcx64\bin\Debug\DotNetZip.xml
